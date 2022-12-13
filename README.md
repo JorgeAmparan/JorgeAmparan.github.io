@@ -17,5 +17,5 @@ MIT xPRO Professional Certificate in Coding: Full Stack Development with MERN
 
 ## Work
 
-link [GitHub Pages](https://pages.github.com/) Teresiano Móvil app published in Apple Store and Google Play Store
+[Teresiano Móvil](https://www.teresianomovil.com/), an app published in PWA version as weill as native versions in Apple Store and Google Play Store
 
