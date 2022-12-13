@@ -16,3 +16,6 @@ ITESM, Business Management Specialization
 MIT xPRO Professional Certificate in Coding: Full Stack Development with MERN 
 
 ## Work
+
+Teresiano Móvil app published in Apple Store and Google Play Store
+
