@@ -15,7 +15,7 @@ ITESM, Business Management Specialization
 
 MIT xPRO Professional Certificate in Coding: Full Stack Development with MERN 
 
-## Work as a developer
+## Work as a web developer
 
 [Teresiano Móvil](https://www.teresianomovil.com/), an app for a local private school published as PWA version as well as native versions in Apple Store and Google Play Store. This app is used by the school for Push Notifications to school personell, students and parents, and for publishing school calendar and homework, audios and other relevant information for the school community.
 
