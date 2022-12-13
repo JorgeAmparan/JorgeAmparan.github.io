@@ -17,5 +17,5 @@ MIT xPRO Professional Certificate in Coding: Full Stack Development with MERN
 
 ## Work
 
-[Teresiano Móvil](https://www.teresianomovil.com/), an app published in PWA version as weill as native versions in Apple Store and Google Play Store
+[Teresiano Móvil](https://www.teresianomovil.com/), an app for a local private school published as PWA version as well as native versions in Apple Store and Google Play Store. This app is used by the school for Push Notifications to school personell, students and parents, and for publishing school calendar and homework, audios and other relevant information for the school community.
 
