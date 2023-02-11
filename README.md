@@ -1,7 +1,7 @@
 # jorgeamparan.github.io
 I’m writer, that's what I've been all my life, an anenthusiastic about literature and technology
 
-CEO at Lappicero Studio
+CEO and Project Manager at Lappicero Studio
 Web and Mobile App Development Agency
 
 Looking forward to develop wonderful apps for the continuous growing digital world!
