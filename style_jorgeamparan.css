@@ -1,6 +1,14 @@
 body {
-    background-color: #203f9d;
-    color: rgb(255, 0, 0);
+    text-align: center;
+    font-family: Neotric;
+    font-size: 26px;
+    background-color: #f1f3f9;
+    color: #0c0664;
+}
+
+@font-face {
+    font-family: Neotric;
+    src: url(NeotericBold-xq1q.ttf);
 }
 
 h1{
@@ -9,16 +17,25 @@ h1{
     position: center;
 }
 
-.contenedor{
-    /* Code*/
+.hero {
+    width: 100vw;
+    height: 50vh;
+    background-color: f1f3f9;
+    padding-top: 80px;
+    color: #0c0664;
+    font-family: Helvetica;
 }
 
-#contenedor_principal{
-    /* code */
+.hero p{
+    font-family: Helvetica;
+    font-size: 18px;
 }
 
 .videhome
 {
+    display: flexbox;
+    padding: 50px;
     position: absolute;
+    margin: 200px;
     
 }
